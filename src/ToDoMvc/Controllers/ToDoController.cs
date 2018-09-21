@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using ToDoMvc.Models;
 using ToDoMvc.Services;
 
 namespace ToDoMvc.Controllers
@@ -24,6 +25,19 @@ namespace ToDoMvc.Controllers
             };
 
             return View(vm);
+        }
+
+        public async Task<IActionResult> AddItem(NewToDoItem newItem)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var succesfull = await _toDoItemService.AddItemAsync(newItem);
+
+            if (!succesfull)
+                return BadRequest(new { Error = "Could not add item"});
+
+            return Ok();
         }
     }
 }
