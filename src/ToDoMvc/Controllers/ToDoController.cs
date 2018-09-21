@@ -20,13 +20,13 @@ namespace ToDoMvc.Controllers
                     Id = Guid.NewGuid(),
                     Title = "Item 1",
                     DueAt = DateTime.Now
-                    }
+                    },
 
                     new Models.ToDoItem{
                     Id = Guid.NewGuid(),
                     Title = "Item 2",
                     DueAt = DateTime.Now
-                    }
+                    },
 
                     new Models.ToDoItem{
                     Id = Guid.NewGuid(),

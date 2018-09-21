@@ -10,3 +10,15 @@ C:\Users\opet\source\repos\ToDo\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.Assembly
 C:\Users\opet\source\repos\ToDo\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.AssemblyInfo.cs
 C:\Users\opet\source\repos\ToDo\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.dll
 C:\Users\opet\source\repos\ToDo\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.pdb
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.deps.json
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.runtimeconfig.json
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.runtimeconfig.dev.json
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.dll
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.pdb
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.csprojResolveAssemblyReference.cache
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.csproj.CoreCompileInputs.cache
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.AssemblyInfoInputs.cache
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.AssemblyInfo.cs
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.dll
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.pdb
+C:\Users\opet\Source\Repos\ToDo\src\ToDoMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
