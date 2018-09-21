@@ -1,9 +1,9 @@
 ﻿// Write your JavaScript code.
 $(document).ready(function () {
-    $('#add-item-button').on('clic', addItem);
+    $('#add-item-button').on('click', addItem);
 });
 
-functionaddItem(){
+function addItem() {
     $('#add-item-error').hide();
     var newTitle = $('#add-item-title').val();
     var newDueAt = $('#add-item-due-at').val();
